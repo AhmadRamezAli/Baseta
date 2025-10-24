@@ -1,0 +1,657 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Baseta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\controllers\\jobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\dtos\\typedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\dtos\\typedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\entities\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\utils\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\utils\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\dtos\\createjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\dtos\\createjobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\controllers\\typecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\controllers\\typecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\controllers\\governaratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\controllers\\governaratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\dtos\\searchfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\dtos\\searchfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\dtos\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\dtos\\jobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\utils\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\utils\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\utils\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\utils\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\baseta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\baseta.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\dtos\\servicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\dtos\\servicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\dtos\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\dtos\\loginuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\dtos\\governaratedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\dtos\\governaratedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\dtos\\createservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\dtos\\createservicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\dtos\\contactinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\dtos\\contactinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\exceptions\\pipelineexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\exceptions\\pipelineexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\jwt\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\jwt\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\jwt\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\jwt\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\infrastructures\\configurations\\servicecategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\infrastructures\\configurations\\servicecategoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\infrastructures\\configurations\\locationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\infrastructures\\configurations\\locationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\infrastructures\\configurations\\governarateconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\infrastructures\\configurations\\governarateconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\entities\\governarate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\entities\\governarate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\entities\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\entities\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\entities\\jobtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\entities\\jobtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|c:\\users\\hp\\source\\repos\\baseta\\baseta\\entities\\jobcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC3591F-EEBE-4E7B-AEAE-D39683B75452}|Baseta\\Baseta.csproj|solutionrelative:baseta\\entities\\jobcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Utils\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "Baseta\\Utils\\ValidationHelper.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Utils\\ValidationHelper.cs",
+              "RelativeToolTip": "Baseta\\Utils\\ValidationHelper.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T07:53:50.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Job.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Entities\\Job.cs",
+              "RelativeDocumentMoniker": "Baseta\\Entities\\Job.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Entities\\Job.cs",
+              "RelativeToolTip": "Baseta\\Entities\\Job.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T10:46:56.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionHandlerMiddleWare.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\MiddleWares\\ExceptionHandlerMiddleWare.cs",
+              "RelativeDocumentMoniker": "Baseta\\MiddleWares\\ExceptionHandlerMiddleWare.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\MiddleWares\\ExceptionHandlerMiddleWare.cs",
+              "RelativeToolTip": "Baseta\\MiddleWares\\ExceptionHandlerMiddleWare.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T06:54:07.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TypeDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\TypeDto.cs",
+              "RelativeDocumentMoniker": "Baseta\\Dtos\\TypeDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\TypeDto.cs",
+              "RelativeToolTip": "Baseta\\Dtos\\TypeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T12:56:57.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Baseta\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Baseta\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwFQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T10:37:22.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Baseta\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Baseta\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:22:40.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Controllers\\JobController.cs",
+              "RelativeDocumentMoniker": "Baseta\\Controllers\\JobController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Controllers\\JobController.cs",
+              "RelativeToolTip": "Baseta\\Controllers\\JobController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAArwGIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T18:36:25.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateJobDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\CreateJobDto.cs",
+              "RelativeDocumentMoniker": "Baseta\\Dtos\\CreateJobDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\CreateJobDto.cs",
+              "RelativeToolTip": "Baseta\\Dtos\\CreateJobDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T11:38:17.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Baseta\\Dtos\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\CategoryDto.cs",
+              "RelativeToolTip": "Baseta\\Dtos\\CategoryDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T12:55:18.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Baseta\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Baseta\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T12:23:11.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GovernarateController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Controllers\\GovernarateController.cs",
+              "RelativeDocumentMoniker": "Baseta\\Controllers\\GovernarateController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Controllers\\GovernarateController.cs",
+              "RelativeToolTip": "Baseta\\Controllers\\GovernarateController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:51:15.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TypeController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Controllers\\TypeController.cs",
+              "RelativeDocumentMoniker": "Baseta\\Controllers\\TypeController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Controllers\\TypeController.cs",
+              "RelativeToolTip": "Baseta\\Controllers\\TypeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T01:58:34.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "Baseta\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "Baseta\\Controllers\\ServiceController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T16:06:26.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JobDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\JobDto.cs",
+              "RelativeDocumentMoniker": "Baseta\\Dtos\\JobDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\JobDto.cs",
+              "RelativeToolTip": "Baseta\\Dtos\\JobDto.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T11:24:49.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaginatedResult.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Utils\\PaginatedResult.cs",
+              "RelativeDocumentMoniker": "Baseta\\Utils\\PaginatedResult.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Utils\\PaginatedResult.cs",
+              "RelativeToolTip": "Baseta\\Utils\\PaginatedResult.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T23:57:52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Utils\\Result.cs",
+              "RelativeDocumentMoniker": "Baseta\\Utils\\Result.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Utils\\Result.cs",
+              "RelativeToolTip": "Baseta\\Utils\\Result.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T23:57:41.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SearchFilterDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\SearchFilterDto.cs",
+              "RelativeDocumentMoniker": "Baseta\\Dtos\\SearchFilterDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\SearchFilterDto.cs",
+              "RelativeToolTip": "Baseta\\Dtos\\SearchFilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T18:35:50.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\appsettings.json",
+              "RelativeDocumentMoniker": "Baseta\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\appsettings.json",
+              "RelativeToolTip": "Baseta\\appsettings.json",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T14:19:16.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Program.cs",
+              "RelativeDocumentMoniker": "Baseta\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Program.cs",
+              "RelativeToolTip": "Baseta\\Program.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAG4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T14:26:14.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Baseta.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Baseta.csproj",
+              "RelativeDocumentMoniker": "Baseta\\Baseta.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Baseta.csproj",
+              "RelativeToolTip": "Baseta\\Baseta.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-12T05:40:18.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "Baseta\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "Baseta\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T16:12:42.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\ServiceDto.cs",
+              "RelativeDocumentMoniker": "Baseta\\Dtos\\ServiceDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\ServiceDto.cs",
+              "RelativeToolTip": "Baseta\\Dtos\\ServiceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T16:09:39.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\RegisterUserDto.cs",
+              "RelativeDocumentMoniker": "Baseta\\Dtos\\RegisterUserDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\RegisterUserDto.cs",
+              "RelativeToolTip": "Baseta\\Dtos\\RegisterUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T13:02:36.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\LoginUserDto.cs",
+              "RelativeDocumentMoniker": "Baseta\\Dtos\\LoginUserDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\LoginUserDto.cs",
+              "RelativeToolTip": "Baseta\\Dtos\\LoginUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T13:02:38.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateServiceDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\CreateServiceDto.cs",
+              "RelativeDocumentMoniker": "Baseta\\Dtos\\CreateServiceDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\CreateServiceDto.cs",
+              "RelativeToolTip": "Baseta\\Dtos\\CreateServiceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T16:18:48.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GovernarateDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\GovernarateDto.cs",
+              "RelativeDocumentMoniker": "Baseta\\Dtos\\GovernarateDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\GovernarateDto.cs",
+              "RelativeToolTip": "Baseta\\Dtos\\GovernarateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T16:01:22.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ContactInfoDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\ContactInfoDto.cs",
+              "RelativeDocumentMoniker": "Baseta\\Dtos\\ContactInfoDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Dtos\\ContactInfoDto.cs",
+              "RelativeToolTip": "Baseta\\Dtos\\ContactInfoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T07:50:16.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PipeLineException.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Exceptions\\PipeLineException.cs",
+              "RelativeDocumentMoniker": "Baseta\\Exceptions\\PipeLineException.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Exceptions\\PipeLineException.cs",
+              "RelativeToolTip": "Baseta\\Exceptions\\PipeLineException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T06:57:52.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\JWT\\JwtService.cs",
+              "RelativeDocumentMoniker": "Baseta\\JWT\\JwtService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\JWT\\JwtService.cs",
+              "RelativeToolTip": "Baseta\\JWT\\JwtService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIBZwBUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T05:36:24.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "JwtSetting.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\JWT\\JwtSetting.cs",
+              "RelativeDocumentMoniker": "Baseta\\JWT\\JwtSetting.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\JWT\\JwtSetting.cs",
+              "RelativeToolTip": "Baseta\\JWT\\JwtSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T05:36:13.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Entities\\Service.cs",
+              "RelativeDocumentMoniker": "Baseta\\Entities\\Service.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Entities\\Service.cs",
+              "RelativeToolTip": "Baseta\\Entities\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T16:10:13.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "JobType.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Entities\\JobType.cs",
+              "RelativeDocumentMoniker": "Baseta\\Entities\\JobType.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Entities\\JobType.cs",
+              "RelativeToolTip": "Baseta\\Entities\\JobType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T12:58:00.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GovernarateConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Infrastructures\\Configurations\\GovernarateConfiguration.cs",
+              "RelativeDocumentMoniker": "Baseta\\Infrastructures\\Configurations\\GovernarateConfiguration.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Infrastructures\\Configurations\\GovernarateConfiguration.cs",
+              "RelativeToolTip": "Baseta\\Infrastructures\\Configurations\\GovernarateConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T18:27:56.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LocationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Infrastructures\\Configurations\\LocationConfiguration.cs",
+              "RelativeDocumentMoniker": "Baseta\\Infrastructures\\Configurations\\LocationConfiguration.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Infrastructures\\Configurations\\LocationConfiguration.cs",
+              "RelativeToolTip": "Baseta\\Infrastructures\\Configurations\\LocationConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T18:27:44.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ServiceCategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Infrastructures\\Configurations\\ServiceCategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Baseta\\Infrastructures\\Configurations\\ServiceCategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Infrastructures\\Configurations\\ServiceCategoryConfiguration.cs",
+              "RelativeToolTip": "Baseta\\Infrastructures\\Configurations\\ServiceCategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T12:21:31.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Type.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Entities\\Type.cs",
+              "RelativeDocumentMoniker": "Baseta\\Entities\\Type.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Entities\\Type.cs",
+              "RelativeToolTip": "Baseta\\Entities\\Type.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T11:27:36.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Governarate.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Entities\\Governarate.cs",
+              "RelativeDocumentMoniker": "Baseta\\Entities\\Governarate.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Entities\\Governarate.cs",
+              "RelativeToolTip": "Baseta\\Entities\\Governarate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T14:20:30.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Baseta\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Entities\\Category.cs",
+              "RelativeToolTip": "Baseta\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T10:47:23.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "JobCategory.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Entities\\JobCategory.cs",
+              "RelativeDocumentMoniker": "Baseta\\Entities\\JobCategory.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Baseta\\Baseta\\Entities\\JobCategory.cs",
+              "RelativeToolTip": "Baseta\\Entities\\JobCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T10:47:14.334Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
